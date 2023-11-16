@@ -1,0 +1,7 @@
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\MyStore.Tests.Integration\bin\Debug\net7.0\CoverletSourceRootsMapping
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\MyStore.Tests.Integration\obj\Debug\net7.0\MyStore.Tests.Integration.csproj.AssemblyReference.cache
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\MyStore.Tests.Integration\obj\Debug\net7.0\MvcTestingAppManifest.json
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\MyStore.Tests.Integration\obj\Debug\net7.0\MyStore.Tests.Integration.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\MyStore.Tests.Integration\obj\Debug\net7.0\MyStore.Tests.Integration.AssemblyInfoInputs.cache
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\MyStore.Tests.Integration\obj\Debug\net7.0\MyStore.Tests.Integration.AssemblyInfo.cs
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\MyStore.Tests.Integration\obj\Debug\net7.0\MyStore.Tests.Integration.csproj.CoreCompileInputs.cache

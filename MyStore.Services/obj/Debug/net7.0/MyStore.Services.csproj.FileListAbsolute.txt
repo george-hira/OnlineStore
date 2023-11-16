@@ -1,0 +1,17 @@
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\MyStore.Services\bin\Debug\net7.0\MyStore.Services.deps.json
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\MyStore.Services\bin\Debug\net7.0\MyStore.Services.dll
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\MyStore.Services\bin\Debug\net7.0\MyStore.Services.pdb
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\MyStore.Services\obj\Debug\net7.0\MyStore.Services.csproj.AssemblyReference.cache
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\MyStore.Services\obj\Debug\net7.0\MyStore.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\MyStore.Services\obj\Debug\net7.0\MyStore.Services.AssemblyInfoInputs.cache
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\MyStore.Services\obj\Debug\net7.0\MyStore.Services.AssemblyInfo.cs
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\MyStore.Services\obj\Debug\net7.0\MyStore.Services.csproj.CoreCompileInputs.cache
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\MyStore.Services\obj\Debug\net7.0\MyStore.Services.dll
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\MyStore.Services\obj\Debug\net7.0\refint\MyStore.Services.dll
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\MyStore.Services\obj\Debug\net7.0\MyStore.Services.pdb
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\MyStore.Services\obj\Debug\net7.0\ref\MyStore.Services.dll
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\MyStore.Services\bin\Debug\net7.0\MyStore.Data.dll
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\MyStore.Services\bin\Debug\net7.0\MyStore.Domain.dll
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\MyStore.Services\bin\Debug\net7.0\MyStore.Data.pdb
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\MyStore.Services\bin\Debug\net7.0\MyStore.Domain.pdb
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\MyStore.Services\obj\Debug\net7.0\MyStore.Services.csproj.CopyComplete

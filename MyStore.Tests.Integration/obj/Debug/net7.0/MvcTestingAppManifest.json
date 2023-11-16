@@ -1,0 +1,6 @@
+{
+  "MyStore.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\DotnetCourse\\SIIT-DotNet-Course\\FirstAPI\\MyStore\\MyStore.Data",
+  "MyStore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\DotnetCourse\\SIIT-DotNet-Course\\FirstAPI\\MyStore\\MyStore",
+  "MyStore.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\DotnetCourse\\SIIT-DotNet-Course\\FirstAPI\\MyStore\\MyStore.Domain",
+  "MyStore.Services, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\DotnetCourse\\SIIT-DotNet-Course\\FirstAPI\\MyStore\\MyStore.Services"
+}

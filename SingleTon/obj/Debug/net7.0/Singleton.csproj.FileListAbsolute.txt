@@ -1,0 +1,15 @@
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\SingleTon\bin\Debug\net7.0\Singleton.exe
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\SingleTon\bin\Debug\net7.0\Singleton.deps.json
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\SingleTon\bin\Debug\net7.0\Singleton.runtimeconfig.json
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\SingleTon\bin\Debug\net7.0\Singleton.dll
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\SingleTon\bin\Debug\net7.0\Singleton.pdb
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\SingleTon\obj\Debug\net7.0\Singleton.csproj.AssemblyReference.cache
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\SingleTon\obj\Debug\net7.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\SingleTon\obj\Debug\net7.0\Singleton.AssemblyInfoInputs.cache
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\SingleTon\obj\Debug\net7.0\Singleton.AssemblyInfo.cs
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\SingleTon\obj\Debug\net7.0\Singleton.csproj.CoreCompileInputs.cache
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\SingleTon\obj\Debug\net7.0\Singleton.dll
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\SingleTon\obj\Debug\net7.0\refint\Singleton.dll
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\SingleTon\obj\Debug\net7.0\Singleton.pdb
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\SingleTon\obj\Debug\net7.0\Singleton.genruntimeconfig.cache
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\SingleTon\obj\Debug\net7.0\ref\Singleton.dll
